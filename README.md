@@ -1,5 +1,5 @@
 # pro-gogle-ste
-Code used in my technical resume website I made in google sites
+Code used in my technical resume website I made in google sites with sign in
 
 I origionally coded a website using foundation (the code for that can be found in the professional website repository), which allowed both html and css, but as i do not have a server ready at the moment, I partially put the code on a google  website. I then had to modify it to work with google sites, resulting in no use of css. 
 
